@@ -15,3 +15,5 @@ pip list
 pip freeze > requirements.txt
 ## Autor
 Angel Mata Contreras
+## Estado del proyecto
+Versión inicial 080926
