@@ -1,0 +1,20 @@
+1. ¿Cuál es la diferencia entre un repositorio local y uno remoto?
+El local es la copia del proyecto en mi compu donde trabajo, y el remoto es la que está en GitHub para compartirlo y respaldarlo.
+
+2. ¿Cuál es la diferencia entre commit y push?
+El commit guarda mis cambios en el repositorio local, y el push los sube al repositorio remoto.
+
+4. ¿Por qué .venv no se almacena normalmente en GitHub?
+Porque ocupa mucho espacio y se puede volver a crear fácil con requirements.txt, así que subirlo es innecesario.
+
+6. ¿Cuál es la diferencia entre fork y clone?
+El fork crea una copia del repo en mi cuenta de GitHub, y el clone descarga esa copia a mi computadora.
+
+7. ¿Por qué conviene crear una rama antes de modificar el proyecto?
+Para no tocar directamente el código principal, y si algo sale mal no afecta la versión estable.
+
+8. ¿Qué función cumple un Pull Request?
+Sirve para proponer que mis cambios se integren al proyecto principal y que alguien los revise antes de aceptarlos.
+
+9. ¿Qué se revisa antes de realizar un merge?
+Que el código funcione bien, que no haya conflictos con la rama principal y que cumpla con lo que se pidió.
